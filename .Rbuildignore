@@ -1,0 +1,15 @@
+^renv$
+^renv\.lock$
+^README\.Rmd$
+^BACKLOG\.Rmd$
+^\.github$
+^codecov\.yml$
+^LICENSE\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.*\.Rproj$
+^\.Rproj\.user$
+^data$
+^scripts$
+^build\.R$

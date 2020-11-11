@@ -1,0 +1,7 @@
+library/
+lock/
+python/
+staging/
+cache/
+cache_docker/
+local/
